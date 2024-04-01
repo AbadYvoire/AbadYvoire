@@ -29,7 +29,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="AbadYvoire/greet.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoys watching TV series shows such as anime, and playing video games <br/><br/>
  ❤️ &emsp; Trying to learn to code as my interest in video games grow<br/><br/>
