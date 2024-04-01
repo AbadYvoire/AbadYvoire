@@ -1,6 +1,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
+<p align="center">
+  <img width="480" height="300" src="/greet.gif">
+</p>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am Yvoire Abad!
@@ -29,8 +33,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="AbadYvoire/greet.gif" alt="Coding gif" />
-  
+        
  ✌️ &emsp; Enjoys watching TV series shows such as anime, and playing video games <br/><br/>
  ❤️ &emsp; Trying to learn to code as my interest in video games grow<br/><br/>
  📧 &emsp; Email: [ABAD2220698@mkt.ceu.edu.ph]<br/><br/>
