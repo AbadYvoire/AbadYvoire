@@ -33,11 +33,12 @@
  # About me
  
 <p>
-        
+  <img align="right" width="220" height="250" src="/anime-gaming.gif">
+  
  ✌️ &emsp; Enjoys watching TV series shows such as anime, and playing video games <br/><br/>
- ❤️ &emsp; Trying to learn to code as my interest in video games grow<br/><br/>
+ ❤️ &emsp; My interest in video games and computer-related, such as programming, grew my desire to try learning to code.<br/><br/>
  📧 &emsp; Email: [ABAD2220698@mkt.ceu.edu.ph]<br/><br/>
- 💬 &emsp; Usually a private, reserved and introverted person as I'm not really a type of spending a lot of time in socializing with others.
+ 💬 &emsp; I'm usually a private, reserved and introverted person as I'm not really a type of spending a lot of time in socializing with others.
 
 </p>
 
